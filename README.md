@@ -1,2 +1,2 @@
 # my-project
-“Basic UI design using HTML and CSS.”
+Stone Paper Scissors game built using HTML, CSS, and JavaScript. Play against computer with interactive UI.
